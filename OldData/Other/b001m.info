@@ -1,0 +1,12 @@
+Source: record cebsdb/b001
+val has 4 rows (signals) and 300000 columns (samples/signal)
+Duration:     1:00
+Sampling frequency: 5000 Hz  Sampling interval: 0.0002 sec
+Row	Signal	Gain	Base	Units
+1	 I	33722.0181	-14974	mV
+2	 II	72230.6799	11980	mV
+3	 RESP	40950.0021	-1812	mV
+4	 SCG	2462.6354	3908	mV
+
+To convert from raw units to the physical units shown
+above, subtract 'base' and divide by 'gain'.

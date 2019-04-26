@@ -1,0 +1,8 @@
+b001m 4 5000 300000
+b001m.mat 16+24 33722.0181(-14974)/mV 0 0 -9478 -24312 0  I
+b001m.mat 16+24 72230.6799(11980)/mV 0 0 25250 -9433 0  II
+b001m.mat 16+24 40950.0021(-1812)/mV 0 0 19695 1195 0  RESP
+b001m.mat 16+24 2462.6354(3908)/mV 0 0 3457 27957 0  SCG
+#Baseline for subject 1 
+#Creator: wfdb2mat
+#Source: record cebsdb/b001

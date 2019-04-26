@@ -1,0 +1,4 @@
+Medical Device Architecture:
+
+1) Crypto Core --> https://opencores.org/project,tiny_aes --> AES
+2) Processing Core --> https://opencores.org/project,amber --> Amber (from ARM)
