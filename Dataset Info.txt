@@ -2,10 +2,6 @@ Iris Dataset
 
 100 -- 149 (except 147 --> 001)
 
-P01 -- P50
-
 Fingerprint Dataset
 
 50 -- 99
-
-P01 -- P50
